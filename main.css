@@ -1,0 +1,90 @@
+
+
+
+.jumbotron {
+    letter-spacing: 2px; 
+    padding: 100px 25px; 
+    margin-bottom: 5px; 
+}
+
+
+p {
+    font-family: 'Wire One', sans-serif;
+    font-size: 40px; 
+    letter-spacing: 1px; 
+    
+}
+
+h1 {
+    font-family: 'Wire One', sans-serif;
+    font-size: 104px; 
+    color: black; 
+    letter-spacing: 2px; 
+}
+
+
+h2 {
+    font-family: 'Wire One', sans-serif;
+    font-size: 54px; 
+    color: #F24738; 
+    
+}
+
+.navbar {
+    padding-top: 30px;
+  padding-bottom: 30px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 34px;
+    font-family: 'Wire One', sans-serif;
+  letter-spacing: 2px;
+}
+
+img{
+max-width: 100%;
+max-height: 100%;
+display: block; /* remove extra space below image */
+}
+
+.bg-1{
+    background-color: white; 
+}
+.bg-2{
+    background-color: white;   
+}
+.bg-3{
+    
+    background-color: white; 
+}
+.bg-4{
+    background-color: lightgoldenrodyellow;
+    
+}
+
+.bg-5{
+    background-color: white; 
+    
+}
+
+.container-fluid{
+    padding-top: 60px; 
+    padding-bottom 50px; 
+}
+
+
+.row{
+   height; 300px;  
+    padding-top: 60px; 
+    padding-bottom: 60px; 
+}
+
+hr {
+    1px; 
+    color: black;     
+}
+
+
+
+
+
